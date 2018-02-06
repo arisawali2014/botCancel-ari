@@ -30,5 +30,6 @@ while True:
                                 pass
                         cl.sendMessage(msg.to,'Done!\nline://ti/p/~arisawali2014')
                         cl.leaveGroup(msg.to)
+                poll.setRevision(op.revision)
     except Exception as e:
         cl.log("[SINGLE_TRACE] ERROR : " + str(e))
