@@ -7,7 +7,9 @@ Python 3
 
 ## Usage
 change the email and password in:
-```cl = LINE('EMAIL','PASSWORD')```
+```python
+cl = LINE('EMAIL','PASSWORD')
+```
 
 ## author
 Line-Py / [@fadhiilrachman](https://github.com/fadhiilrachman/line-py)
