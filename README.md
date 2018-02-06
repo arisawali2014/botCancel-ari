@@ -11,6 +11,7 @@ change the email and password in:
 cl = LINE('EMAIL','PASSWORD')
 ```
 
-## author
+## Author
 Line-Py / [@fadhiilrachman](https://github.com/fadhiilrachman/line-py)
+## Forker
 Ari Sawali / [@arisawali2014](https://github.com/arisawali2014)
